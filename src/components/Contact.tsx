@@ -36,7 +36,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Vethnik</span>
+              Developed  by <span>Vethnik</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

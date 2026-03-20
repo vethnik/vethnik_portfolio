@@ -6,8 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Aspiring Software Engineer with strong skills in Python, Web Development, and Cloud technologies, supported by hands-on experience building full-stack applications and AI-based chatbots. Solid foundation in Data Structures, Machine Learning, and System Design, with a proven ability to design, develop, and deploy real-world software solutions. Passionate about solving technical problems and eager to contribute to impactful engineering projects.
-        </p>
+2nd-year B.Tech CS student at MLR Institute of Technology, building real-world software since day one. I've shipped OfferGuard (AI fraud detection, 92% accuracy), GigWorker (blue-collar job marketplace). I build things that solve actual problems — and I'm actively looking for internships."        </p>
       </div>
     </div>
   );

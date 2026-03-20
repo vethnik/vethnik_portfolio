@@ -90,9 +90,7 @@ const WhatIDo = () => {
               <h3>AI & DATA</h3>
               <h4>Building Intelligent Systems</h4>
               <p>
-                Developing AI-powered applications, from conversational chatbots 
-                to fraud detection models utilizing machine learning and Python.
-              </p>
+Developing AI-powered applications using machine learning, Python, and LLM APIs — with a focus on real-world fraud detection and intelligent automation.              </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Python</div>
@@ -100,8 +98,8 @@ const WhatIDo = () => {
                 <div className="what-tags">Data Science</div>
                 <div className="what-tags">scikit-learn</div>
                 <div className="what-tags">Algorithms</div>
-                <div className="what-tags">LLMs (Gemini)</div>
-                <div className="what-tags">C / Java</div>
+                <div className="what-tags">LLMs</div>
+                <div className="what-tags">TF-IDF</div>
                 <div className="what-tags">SQL</div>
               </div>
               <div className="what-arrow"></div>
@@ -129,19 +127,18 @@ const WhatIDo = () => {
               <h3>FULL STACK</h3>
               <h4>Scalable Web Architecture</h4>
               <p>
-                Building responsive React interfaces and robust Node.js backend services. 
-                Integrating databases and deploying complete solutions to the cloud.
+                Building responsive React interfaces and FastAPI backend services. Integrating databases and deploying complete solutions to the cloud.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">React</div>
-                <div className="what-tags">Node.js</div>
+                <div className="what-tags">FastAPI</div>
                 <div className="what-tags">JavaScript</div>
                 <div className="what-tags">HTML / CSS</div>
-                <div className="what-tags">Firebase</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">Google Cloud</div>
-                <div className="what-tags">Netlify</div>
+                <div className="what-tags">Python </div>
+                <div className="what-tags">Supabase </div>
+                {/* <div className="what-tags">Google Cloud</div> */}
+                <div className="what-tags">Vercel</div>
               </div>
               <div className="what-arrow"></div>
             </div>
