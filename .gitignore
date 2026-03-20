@@ -26,3 +26,15 @@ dist-ssr
 
 backup/
 .env
+
+# Ignore large unencrypted 3D models to prevent Git LFS issues
+public/models/character.glb
+
+# Local logs and build artifacts
+*.log
+*.tsbuildinfo
+
+# Personal assets/notes
+withnopn.pdf
+test.js
+public/models/decrypt.cjs
